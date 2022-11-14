@@ -1,0 +1,5 @@
+name: ipLogin
+version: 0.1
+main: me.ipLogin.main.Main
+commands:
+  rlc:
